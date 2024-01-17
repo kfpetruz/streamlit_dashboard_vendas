@@ -1,0 +1,4 @@
+plotly==5.18.0
+pandas==2.1.4
+requests==2.31.0
+#não passamos a biblioteca streamlit porque o projeto vai subir no streamlit e ele já receonhece a biblioteca
